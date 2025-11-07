@@ -1,4 +1,4 @@
-baseurl = "http://shenwei.me/"
+baseurl = "https://shenwei.me/"
 
 builddrafts = false
 canonifyurls = false
