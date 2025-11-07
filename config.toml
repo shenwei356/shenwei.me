@@ -14,7 +14,7 @@ publishdir = "public"
 author = "Wei Shen"
 title = "Wei Shen"
 
-googleAnalytics = "UA-28948626-7"
+googleAnalytics = "G-E0P9PNZ624"
 
 theme = "hugo-goa"
 
@@ -28,7 +28,7 @@ theme = "hugo-goa"
 
 [params.meta]
     description = "Wei Shen's Homepage"
-    keywords = "shenwei356,Wei Shen,Bioinformatics,沈伟,生物信息,生信"
+    keywords = "shenwei356,Wei Shen,Bioinformatics,沈伟,生物信息,生物信息学,生信,重庆医科大学,硕导,博导"
 
 [params.social]
     github = "shenwei356"
@@ -36,7 +36,7 @@ theme = "hugo-goa"
     googlescholar = "wHF3Lm8AAAAJ"
     # orcid = "0000-0002-8099-8258"
     email = "shenwei356@gmail.com"
-    
+
 [params.extra]
     copyright = ""
     poweredby = false
@@ -51,4 +51,10 @@ theme = "hugo-goa"
    name = "Learn more"
    weight = 100
    url = "/about/"
+   pre = ""
+[[menu.main]]
+   identifier = "Shen Lab @ CQMU"
+   name = "Wei Shen Lab @ CQMU"
+   weight = 100
+   url = "https://mbio.info"
    pre = ""

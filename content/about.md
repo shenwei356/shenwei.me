@@ -14,6 +14,8 @@ showcomments=false
 
 Associate Professor in Bioinformatics, started Dec 2022
 
+Lab site: https://mbio.info
+
 [Institute for Viral Hepatitis](http://infect-hepatol-cqmu.sahcqmu.com/), [The Second Affiliated Hospital](http://www.sahcqmu.com/), [Chongqing Medical University](https://english.cqmu.edu.cn/), China
 
 ### Research Interests
@@ -31,16 +33,21 @@ Associate Professor in Bioinformatics, started Dec 2022
 
 Selected Publications (<sup>*</sup> for equal contribution; <sup>†</sup> for corresponding authors):
 
+- **Wei Shen<sup>†</sup>**, John A Lees and Zamin Iqbal<sup>†</sup>.
+  (**2025**) *Efficient sequence alignment against millions of prokaryotic genomes with LexicMap*.
+  **Nature Biotechnology**.
+  [doi:10.1038/s41587-025-02812-8](https://doi.org/10.1038/s41587-025-02812-8)
+  [![Citation Badge](https://api.juleskreuer.eu/citation-badge.php?doi=10.1038/s41587-025-02812-8)](https://doi.org/10.1038/s41587-025-02812-8)
 - **Wei Shen<sup>†<sup>**, Botond Sipos, Liuyang Zhao.
   (**2024**) *SeqKit2: A Swiss army knife for sequence and alignment processing*.
   **iMeta**.
   [doi:10.1002/imt2.191](https://doi:10.1002/imt2.191)
-  ![Citation Badge](https://api.juleskreuer.eu/citation-badge.php?doi=10.1002/imt2.191)
+  [![Citation Badge](https://api.juleskreuer.eu/citation-badge.php?doi=10.1002/imt2.191)](https://scholar.google.com/citations?view_op=view_citation&hl=en&user=wHF3Lm8AAAAJ&sortby=pubdate&citation_for_view=wHF3Lm8AAAAJ:9ZlFYXVOiuMC)
 - **Wei Shen<sup>†</sup>**, ..., Peng Hu<sup>†</sup>, Hong Ren<sup>†</sup>.
   (**2023**) *KMCP: accurate metagenomic profiling of both prokaryotic and viral populations by pseudo-mapping*.
   **Bioinformatics**.
   [doi:10.1093/bioinformatics/btac845](https://doi.org/10.1093/bioinformatics/btac845)
-  ![Citation Badge](https://api.juleskreuer.eu/citation-badge.php?doi=10.1093/bioinformatics/btac845)
+  [![Citation Badge](https://api.juleskreuer.eu/citation-badge.php?doi=10.1093/bioinformatics/btac845)](https://scholar.google.com/citations?view_op=view_citation&hl=en&user=wHF3Lm8AAAAJ&sortby=pubdate&citation_for_view=wHF3Lm8AAAAJ:_kc_bZDykSQC)
 - Gang Li*, **Wei Shen<sup>*</sup>**, ..., Yan Zhao<sup>†</sup>.
   (**2022**) *Essential fitness repertoire of Staphylococcus aureus during co-infection with Acinetobacter baumannii in vivo*.
   **mSystems**.
@@ -112,9 +119,10 @@ Utilities
 
 ### Grants
 
+- National Natural Science Foundation of China (2025, 32570766)
 - China Postdoctoral Science Foundation (2021, 2021M700640)
 - National Natural Science Foundation of China (2020, 32000474)
 
 ### More Links
 
-- [Twitter](https://twitter.com/shenwei356) | [Biostars](https://www.biostars.org/u/4664/)
+- [Twitter](https://twitter.com/shenwei356) | [BlueSky](https://shenwei356.bsky.social) | [Biostars](https://www.biostars.org/u/4664/)
